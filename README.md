@@ -1,45 +1,36 @@
 🏥 Hospital Management System (Java + JDBC)
-Welcome to the Hospital Management System – a beginner-friendly Java project designed to teach the fundamentals of Java programming and database connectivity using JDBC. This project walks you through building a fully functional system to manage patients, doctors, and appointments using Java and MySQL.
-
-📌 Overview
-This project helps you understand and apply core concepts in Java programming, database design, and JDBC. You'll learn how to manage real-world data with proper structure and logic — a great addition to your portfolio or resume!
+A beginner-friendly Java project to build a fully functional Hospital Management System using Java and JDBC. Learn how to manage patients, doctors, and appointments with real database connectivity.
 
 🚀 Features
-🔧 Setup & Configuration
-Step-by-step setup of Java development tools and JDBC drivers.
+🔧 Development Environment Setup
+Configure Java, MySQL, and required JDBC drivers.
 
 📊 Database Schema Design
-MySQL-based schema including tables for:
-
-Patients
-
-Doctors
-
-Appointments
-With proper relationships and constraints.
+Create tables for patients, doctors, and appointments with relationships and constraints.
 
 ☕ Java JDBC Connectivity
-Establish a reliable connection between Java and MySQL using JDBC.
+Connect your Java application to the database using JDBC.
 
-🧑‍⚕️ Manage Patients & Doctors
+🧑‍⚕️ Manage Patients and Doctors
 Add, view, and manage patient and doctor records.
 
-🗓 Book Appointments
-Schedule appointments with doctors based on user input.
+🗓 Appointment Booking
+Book appointments with available doctors.
 
-🕒 Doctor Availability Checker
-Check and display doctor availability by date.
+🕒 Doctor Availability Check
+Check which doctors are available on a specific date.
 
-💻 Technologies Used
-Language: Java
+🛠️ Tech Stack
+Language:
+Java
 
-Database: MySQL
+Database:
+MySQL
 
-Database Connector: JDBC
+Connectivity:
+JDBC
 
-IDE: IntelliJ IDEA / Eclipse / VS Code
-
-Version Control: Git
-
-📂 GitHub Repository
-🔗 Hospital Management System – GitHub
+Tools:
+IntelliJ IDEA / Eclipse / VS Code
+MySQL Workbench
+GitHub
